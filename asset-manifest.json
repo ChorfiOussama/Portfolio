@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1ce547c6.css",
+    "main.js": "/Portfolio/static/js/main.714d0a9a.js",
+    "static/media/photo.jpg": "/Portfolio/static/media/photo.843b3fac43efb55f9fcc.jpg",
+    "static/media/port3.PNG": "/Portfolio/static/media/port3.26be79ca5eeff3a71cde.PNG",
+    "static/media/port1.PNG": "/Portfolio/static/media/port1.26c4263705e8e02465e4.PNG",
+    "static/media/Chorfi.pdf": "/Portfolio/static/media/Chorfi.78c2a5abba4d2fa7e6a3.pdf",
+    "static/media/port2.PNG": "/Portfolio/static/media/port2.6c0d42805f26c708aa8f.PNG",
+    "index.html": "/Portfolio/index.html",
+    "main.1ce547c6.css.map": "/Portfolio/static/css/main.1ce547c6.css.map",
+    "main.714d0a9a.js.map": "/Portfolio/static/js/main.714d0a9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce547c6.css",
+    "static/js/main.714d0a9a.js"
+  ]
+}
